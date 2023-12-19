@@ -1,0 +1,3 @@
+- Developed a React and Tailwind-based GIF generator with two sections: one for generating random GIFs and another for generating GIFs based on user-entered text<br>
+- Utilized the Giphy developer option to fetch GIFs via API calls<br>
+- Implemented a spinner that displays while waiting for the GIF to be fetched<br>
